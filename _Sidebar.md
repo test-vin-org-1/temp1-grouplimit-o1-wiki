@@ -3,4 +3,4 @@ A custom sidebar
 Some sidebar data
 
 
-Another change
+Another change in the wiki
